@@ -1,5 +1,4 @@
-# Viewpoint: A Social Media Application 
-[Link](https://viewpoint0614.netlify.app/)
+# Viewpoint: A Social Media Application [Link](https://viewpoint0614.netlify.app/)
 
 Viewpoint is a social media application inspired by Pinterest, designed to provide users with a platform to discover and share images across various categories. It offers a seamless user experience with features such as efficient search functionality, category-wise filters, and interactive pin interactions.
 
