@@ -8,6 +8,8 @@
 
 ![Filter Categores](https://drive.usercontent.google.com/download?id=1tJCNbmqqEn2mnuzhFSH98qYCb8fM9sNa&authuser=0)
 
+![Search](https://drive.usercontent.google.com/download?id=1Wpozi1QJkRsEpWrvxD91xOABon9lzDIO&authuser=0)
+
 ## Technologies Used
 
 - Frontend: React.js, Tailwind CSS
