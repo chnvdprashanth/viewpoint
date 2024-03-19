@@ -4,9 +4,9 @@ Viewpoint is a social media application inspired by Pinterest, designed to provi
 
 ## Screenshots
 
-![Home Page](https://imgur.com/P13qw10)
+![Home Page](https://drive.usercontent.google.com/download?id=1hO2NKJo8QWVYR7mMyCDnMN0J9OtFLKgJ&authuser=0)
 
-![Filter Categores](https://imgur.com/WJPgDh4)
+![Filter Categores](https://drive.usercontent.google.com/download?id=1tJCNbmqqEn2mnuzhFSH98qYCb8fM9sNa&authuser=0)
 
 ## Technologies Used
 
