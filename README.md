@@ -6,9 +6,9 @@
 
 ![Home Page](https://drive.usercontent.google.com/download?id=1hO2NKJo8QWVYR7mMyCDnMN0J9OtFLKgJ&authuser=0)
 
-![Filter Categores](https://drive.usercontent.google.com/download?id=1tJCNbmqqEn2mnuzhFSH98qYCb8fM9sNa&authuser=0)
+![Filter Categores](https://drive.usercontent.google.com/download?id=1y7SZZsWejVxBoabUAhVuPOoKAGFEuRMD&authuser=0)
 
-![Search](https://drive.usercontent.google.com/download?id=1Wpozi1QJkRsEpWrvxD91xOABon9lzDIO&authuser=0)
+![Search](https://drive.usercontent.google.com/download?id=1Ru_XDk0o1jhYhW7eYcJVdhhrTRF_fNFV&authuser=0)
 
 ## Technologies Used
 
