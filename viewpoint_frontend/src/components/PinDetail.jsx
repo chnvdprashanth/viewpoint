@@ -35,11 +35,11 @@ const PinDetail = ({ user }) => {
     fetchPinDetails();
   }, [fetchPinDetails]);
 
-  const addComment = () => {
+  const addComment = async () => {
     if (comment) {
       setAddingComment(true);
 
-      client
+      await client
         .patch(pinId)
         .setIfMissing({ comments: [] })
         .insert("after", "comments[-1]", [
