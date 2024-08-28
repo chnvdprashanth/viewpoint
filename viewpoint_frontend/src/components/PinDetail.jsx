@@ -33,7 +33,7 @@ const PinDetail = ({ user }) => {
 
   useEffect(() => {
     fetchPinDetails();
-  }, [pinId]);
+  },);
 
   const addComment = () => {
     if (comment) {
