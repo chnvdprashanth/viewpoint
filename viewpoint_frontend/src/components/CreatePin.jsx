@@ -102,7 +102,7 @@ const CreatePin = ({ user }) => {
                 </label>
               ) : (
                 <div className='relative h-full'>
-                  <img src={imageAsset?.url} alt="uploaded-image" className='h-full w-full'/>
+                  <img src={imageAsset?.url} alt="uploaded" className='h-full w-full'/>
                   <button type='button' className='absolute bottom-3 right-3 p-3 rounded-full bg-white text-xl cursor-pointer outline-none hover:shadow-md transition-all duration-500 ease-in-out'
                   onClick={()=> setImageAsset(null)} ><MdDelete /></button>
                 </div>
@@ -118,7 +118,7 @@ const CreatePin = ({ user }) => {
           className='outline-none text-xl sm:text-3xl font-bold border-b-2 border-gray-200 p-2'/>
           { user && (
             <div className='flex gap-2 my-2 items-center bg-white rounded-lg'>
-              <img src={user.image} alt="user-image" className='w-10 h-10 rounded-full'/>
+              <img src={user.image} alt="user" className='w-10 h-10 rounded-full'/>
               <p className='font-bold'>{user.userName}</p>
             </div>
           )}

@@ -22,7 +22,7 @@ const Home = () => {
         // console.log(data[0])
         setUser(data[0])
       })
-  }, [])
+  }, [userInfo?.sub])
 
   useEffect(() => {
     scrollRef.current.scrollTo(0, 0);
