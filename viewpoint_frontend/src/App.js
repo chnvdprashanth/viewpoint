@@ -16,7 +16,7 @@ const App = () => {
     const user = fetchUser()
 
     if(!user) navigate('/login')
-  }, [])
+  },)
   
 
   return (
